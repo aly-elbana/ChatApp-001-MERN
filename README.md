@@ -4,12 +4,12 @@ NOTE: Fully detailed in comments for educational purposes. A modern full-stack r
 
 ## Features
 
-- 💬 Real-time messaging with Socket.io
-- 🔐 Secure authentication using JWT
-- 🎨 Modern UI with TailwindCSS
-- 🌙 Dark mode support
-- 📸 Profile image upload via Cloudinary
-- ⚡ High performance with React and Vite
+- Real-time messaging with Socket.io
+- Secure authentication using JWT
+- Modern UI with TailwindCSS
+- Dark mode support
+- Profile image upload via Cloudinary
+- High performance with React and Vite
 
 ## Tech Stack
 
