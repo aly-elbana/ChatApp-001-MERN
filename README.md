@@ -1,6 +1,6 @@
 # Chat App
 
-A modern real-time chat application built with cutting-edge web technologies.
+NOTE: Fully detailed in comments for educational purposes. A modern full-stack real-time chat app built with React 19, Vite, Node.js, Express, and Socket.io. Features JWT auth, dark mode, Cloudinary uploads, and TailwindCSS UI.
 
 ## Features
 
